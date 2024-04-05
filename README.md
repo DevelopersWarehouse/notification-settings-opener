@@ -1,4 +1,4 @@
-# (beta) @developerswarehouse/notification-settings-opener
+# @developerswarehouse/notification-settings-opener
 
 An Ionic Capacitor plugin to open an apps native notificaiton settings.
 
